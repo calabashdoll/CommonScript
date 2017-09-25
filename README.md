@@ -1,6 +1,3 @@
-# CommonScript
- - test 1
- - test 2 
- - test 3 
- - four
- - test 4 
+# CommonScript Package for PHP Composer #
+
+This is a hello world package for php composer beginners tutorial.

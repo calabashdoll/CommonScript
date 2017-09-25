@@ -1,0 +1,13 @@
+{
+    "name": "calabashdoll/calabashdoll",
+    "description": "this is a common script library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leo",
+            "email": "263068280@qq.com"
+        }
+    ],
+    "require": {}
+}
