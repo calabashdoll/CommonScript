@@ -9,5 +9,8 @@
             "email": "263068280@qq.com"
         }
     ],
+    "autoload":{
+	"psr-4":{"Calabash\\calabash\\":"src"}
+    },
     "require": {}
 }
