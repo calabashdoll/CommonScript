@@ -18,4 +18,3 @@ class Calabash
 	}
 }
 
-$ob = new Calabash("葫芦娃");
