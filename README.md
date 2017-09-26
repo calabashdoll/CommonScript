@@ -1,15 +1,22 @@
 # CommonScript Package for PHP Composer #
 
 This is a common script package for php composer beginners tutorial.
+## 安装
+
+使用 Composer安装:
+
+```
+    composer require "calabashdool/common-script:~0.1.0"
+```
+
 ## Usage
-<pre>
-<code>
-	require_once "vendor/autoload.php";
 
-        use Calabash\calabash\Calabash;
+```php
+    require_once "vendor/autoload.php";
 
-	$hello = new Calabash("葫芦王");
+    use Calabash\calabash\Calabash;
 
-	echo $hello->calabash();
-</code>
-<pre>
+    $hello = new Calabash("葫芦王");
+
+    echo $hello->calabash();
+```
