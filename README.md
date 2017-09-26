@@ -12,6 +12,7 @@ This is a common script package for php composer beginners tutorial.
 ## Usage
 
 ```php
+<?php
     require_once "vendor/autoload.php";
 
     use Calabash\calabash\Calabash;
@@ -20,3 +21,4 @@ This is a common script package for php composer beginners tutorial.
 
     echo $hello->calabash();
 ```
+
