@@ -1,7 +1,7 @@
 # CommonScript Package for PHP Composer #
 
 This is a common script package for php composer beginners tutorial.
-
+## Usage
 <pre>
 <code>
 	require_once "vendor/autoload.php";
