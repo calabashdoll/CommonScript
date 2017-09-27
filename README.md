@@ -15,7 +15,7 @@ This is a common script package for php composer beginners tutorial.
 <?php
     require_once "vendor/autoload.php";
 
-    use Calabash\calabash\Calabash;
+    use Calabash\Calabash;
 
     $hello = new Calabash("葫芦王");
 
