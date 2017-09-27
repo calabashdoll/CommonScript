@@ -1,5 +1,5 @@
 <?php
-namespace Calabash\calabash;
+namespace Calabash;
 
 class Calabash
 {
