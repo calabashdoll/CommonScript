@@ -10,7 +10,8 @@
         }
     ],
     "autoload":{
-	"psr-4":{"Calabash\\calabash\\":"src"}
+	"psr-4":{"Calabash\\":"src"}
     },
-    "require": {}
+    "require": {
+    }
 }
