@@ -16,5 +16,9 @@ class Calabash
 	public function calabash(){
 		return 'hello'.$this->name."!";
 	}
+	
+	public function setName($name){
+		$this->name = $name;
+	}
 }
 
